@@ -1,0 +1,21 @@
+Luni
+8.00-9.30	CALCUL DIFERENTIAL SI INTEGRAL - CONF. DR. EVA KASLIK - AM
+9.40-11.10	PROGRAMARE II - CONF. DR. VICTORIA IORDAN - AM
+Marti
+9.40-11.10	P II *- MICOTA - 032
+11.20-12.50	P II - MICOTA - 032
+16.20-17.50	ASD II - SPATARU - 003
+18.00-19.30	SP - MAFTEIU-SCAI - 032
+Miercuri
+8.00-9.30	LFTA - DRAGAN - S5 *
+9.40-11.10	CDI - BRANDIBUR - A3 *
+18.00-19.30	LIMBA ENGLEZA (CURS) - LECT. DR. OANA IVAN - A02                                                                                                                                                                                                                                                                   LIMBA ENGLEZA (SEMINAR) - IVAN -A02
+19.40-21.10	LIMBA ENGLEZA (SEMINAR) -  IVAN - A02                                                                                                                                                                                                                                                                                            LIMBA ENGLEZA (SEMINAR) - IVAN -A02
+Joi
+13.00-14.30	ELEMENTE DE WEB DESIGN (CO) - CONF.DR. VICTORIA IORDAN - AM  
+14.40-16.10	LIMBAJE FORMALE SI TEORIA AUTOMATELOR - CONF. DR. MIRCEA DRAGAN - AM
+16.20-17.50	EWD - TANASIE - 031   
+Vineri
+9.40-11.10	ALGORITMI SI STRUCTURI DE DATE II - LECTOR DR. COSMIN BONCHIS - AM
+11.20-12.50	 METODE SI PRACTICI IN INFORMATICA (CO)  - CONF. DR. ADRIAN CRACIUN -AM
+13.00-14.30	MPI - CRACIUN - F108                                                                                                                                                                                                        MPI - CRACIUN - F108
